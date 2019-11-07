@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-10-27 17:58:49</sys_created_on>
+        <sys_id>63cfd3b01bfc8010cc628515ec4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6fcfdf301bfc8010cc628515ec4bcbb5</sys_name>
+        <sys_package display_value="dev_ts_helper" source="x_44813_dev_ts_hlp">f4082db21b1c0810cc628515ec4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev_ts_helper">f4082db21b1c0810cc628515ec4bcb50</sys_scope>
+        <sys_update_name>sys_embedded_help_role_63cfd3b01bfc8010cc628515ec4bcb40</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-10-27 17:58:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

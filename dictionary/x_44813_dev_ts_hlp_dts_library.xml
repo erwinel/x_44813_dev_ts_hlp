@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_44813_dev_ts_hlp_dts_decl" label="DTS Library" max_length="40" name="x_44813_dev_ts_hlp_dts_library" type="collection">
+        <element label="Config Libraries" max_length="4000" name="lib" reference="x_44813_dev_ts_hlp_dts_config_lib" type="glide_list"/>
+        <element choice="3" default="none" label="Module Type" mandatory="true" max_length="40" name="module_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="none" sequence="100" value="none"/>
+                <element inactive_on_update="false" label="commonjs" sequence="200" value="commonjs"/>
+                <element inactive_on_update="false" label="amd" sequence="300" value="amd"/>
+                <element inactive_on_update="false" label="system" sequence="400" value="system"/>
+                <element inactive_on_update="false" label="umd" sequence="500" value="umd"/>
+                <element inactive_on_update="false" label="es2015" sequence="600" value="es2015"/>
+                <element inactive_on_update="false" label="esnext" sequence="700" value="esnext"/>
+            </choice>
+        </element>
+    </element>
+</database>

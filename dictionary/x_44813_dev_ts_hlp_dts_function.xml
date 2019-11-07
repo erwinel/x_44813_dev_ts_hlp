@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_44813_dev_ts_hlp_dts_modular_decl" label="Function Definition" max_length="40" name="x_44813_dev_ts_hlp_dts_function" type="collection">
+        <element label="Generic Name" max_length="255" name="generic_name" type="string"/>
+    </element>
+</database>

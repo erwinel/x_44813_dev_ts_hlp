@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Method Override</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_44813_dev_ts_hlp_dts_parameter_set</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="DTS Modular Declaration" name="x_44813_dev_ts_hlp_dts_modular_decl">ffad74451b34c010cc628515ec4bcb42</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-10-28 02:16:23</sys_created_on>
+        <sys_id>708111c51b74c010cc628515ec4bcba2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Method Override</sys_name>
+        <sys_package display_value="dev_ts_helper" source="x_44813_dev_ts_hlp">f4082db21b1c0810cc628515ec4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev_ts_helper">f4082db21b1c0810cc628515ec4bcb50</sys_scope>
+        <sys_update_name>sys_db_object_708111c51b74c010cc628515ec4bcba2</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-10-28 02:37:52</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_44813_dev_ts_hlp.code_builder_user" name="x_44813_dev_ts_hlp.code_builder_user">938c1f2b1b208450cc628515ec4bcb48</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

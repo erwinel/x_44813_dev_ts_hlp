@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="DTS Config Lib" max_length="40" name="x_44813_dev_ts_hlp_dts_config_lib" type="collection">
+        <element display="true" label="Label" max_length="40" name="label" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

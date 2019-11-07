@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_44813_dev_ts_hlp_dts_decl" label="DTS Modular Declaration" max_length="40" name="x_44813_dev_ts_hlp_dts_modular_decl" type="collection">
+        <element label="DTS Module" max_length="32" name="module" read_only="true" reference="x_44813_dev_ts_hlp_dts_module" type="reference"/>
+        <index name="index">
+            <element name="module"/>
+        </index>
+    </element>
+</database>

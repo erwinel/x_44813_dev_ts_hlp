@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Code Builder">e0da1fa71b208450cc628515ec4bcb96</application>
+        <filter table="x_44813_dev_ts_hlp_dts_type">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>All Types</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_44813_dev_ts_hlp.code_builder_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-10-28 01:49:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>917b01411b74c010cc628515ec4bcb12</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All Types</sys_name>
+        <sys_package display_value="dev_ts_helper" source="x_44813_dev_ts_hlp">f4082db21b1c0810cc628515ec4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev_ts_helper">f4082db21b1c0810cc628515ec4bcb50</sys_scope>
+        <sys_update_name>sys_ui_module_917b01411b74c010cc628515ec4bcb12</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-10-28 02:41:15</sys_updated_on>
+        <table>x_44813_dev_ts_hlp_dts_type</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

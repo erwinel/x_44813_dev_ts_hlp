@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_44813_dev_ts_hlp_dts_decl" label="Library Subdirectory" max_length="40" name="x_44813_dev_ts_hlp_dts_lib_subdir" type="collection"/>
+</database>

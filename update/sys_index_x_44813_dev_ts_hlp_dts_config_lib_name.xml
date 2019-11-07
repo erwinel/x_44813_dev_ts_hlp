@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>name</col_name_string>
+        <index_col_name element="name" name="x_44813_dev_ts_hlp_dts_config_lib">fa9e2c411bf0c010cc628515ec4bcbd8</index_col_name>
+        <logical_table_name>x_44813_dev_ts_hlp_dts_config_lib</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-10-27 23:45:39</sys_created_on>
+        <sys_id>dc3f2c811bf0c010cc628515ec4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_44813_dev_ts_hlp_dts_config_lib</sys_name>
+        <sys_package display_value="dev_ts_helper" source="x_44813_dev_ts_hlp">f4082db21b1c0810cc628515ec4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev_ts_helper">f4082db21b1c0810cc628515ec4bcb50</sys_scope>
+        <sys_update_name>sys_index_x_44813_dev_ts_hlp_dts_config_lib_name</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-10-27 23:45:39</sys_updated_on>
+        <table display_value="DTS Config Lib" name="x_44813_dev_ts_hlp_dts_config_lib">277ea0811bf0c010cc628515ec4bcbe7</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-10-28 01:55:29</sys_created_on>
+        <sys_id>4eec89811b74c010cc628515ec4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_44813_dev_ts_hlp_dts_constructor.x_44813_dev_ts_hlp.code_builder_user</sys_name>
+        <sys_package display_value="dev_ts_helper" source="x_44813_dev_ts_hlp">f4082db21b1c0810cc628515ec4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev_ts_helper">f4082db21b1c0810cc628515ec4bcb50</sys_scope>
+        <sys_security_acl display_value="x_44813_dev_ts_hlp_dts_constructor">06ec89811b74c010cc628515ec4bcb9d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4eec89811b74c010cc628515ec4bcb9f</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-10-28 01:55:29</sys_updated_on>
+        <sys_user_role display_value="x_44813_dev_ts_hlp.code_builder_user" name="x_44813_dev_ts_hlp.code_builder_user">938c1f2b1b208450cc628515ec4bcb48</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
